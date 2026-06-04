@@ -1,39 +1,71 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+# Olá, eu sou Leonardo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Ferrreira;I';I+from+Brazil,+PR;I+study+systems+development+at+Be+Welcome!+:%29)](https://git.io/typing-svg)
+🎓 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**  
+💻 Estudando **Java**, lógica de programação e desenvolvimento back-end  
+🚀 Em busca de uma oportunidade como **Desenvolvedor Júnior**  
+📚 Atualmente focado em evolução constante através de projetos práticos e estudos diários
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardferreira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardferreira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leonardferreira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+## 👨‍💻 Sobre mim
 
-<div align="center">  
-<a href="https://www.instagram.com/leo_theferreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  
+Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas.
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leonardferreira}/count.svg" /></p> 
-<br></div>
-  
+Atualmente estou aprofundando meus conhecimentos em:
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+- ☕ Java
+- 🧠 Lógica de Programação
+- 🗄️ Banco de Dados SQL
+- 🌐 Conceitos de Back-end
+- 🔐 Segurança da Informação / Cyber Security
+- 🖥️ Redes de Computadores
+
+Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Júnior**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e crescer tecnicamente.
+
+---
+
+## 🚀 Tecnologias e Ferramentas em aprendizado
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📖 Atualmente estudando
+
+- Programação Orientada a Objetos (POO)
+- Java
+- Estruturas de Dados
+- Banco de Dados SQL
+- Desenvolvimento Back-end
+- Cyber Security Fundamentals
+
+---
+
+## 🎯 Objetivos para 2026
+
+✅ Fortalecer minha base em Java  
+✅ Criar projetos práticos para portfólio  
+✅ Aprender boas práticas de desenvolvimento  
+✅ Conseguir uma oportunidade como **Desenvolvedor Júnior**  
+✅ Evoluir em Banco de Dados e Back-end
+
+---
+
+## 📂 Projetos
+
+
+> Estou constantemente adicionando novos projetos e melhorando meu código conforme evoluo nos estudos.
+
+---
+
+## 📫 Contato
+
+📧 Email: contatoleonardo.sferreira@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/leonardoferreira-analista/  
+🐙 GitHub: https://github.com/Leonardferreira
+
+---
