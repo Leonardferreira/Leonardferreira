@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas.
+Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
 Atualmente estou aprofundando meus conhecimentos em:
 
